@@ -119,8 +119,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ---
 
 ## Contact
-
-For questions or suggestions, reach out:
+Some files have been hidden.
+For questions, suggestions or to get full access to files, reach out:
 
 - **Email**: ezra.yalley@gmail.com
 - **GitHub**: [@ezrayalley](https://github.com/ezrayalley)
