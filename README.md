@@ -70,8 +70,8 @@ To set up and run the Sign Language Translator locally:
 
 ## Screenshots
 *Screenshot: Real-time gesture recognition converting sign gestures to text.*
-
-https://github.com/ezrayalley/Sign-Language-Translator/blob/main/1736233002961.jpg
+![Sign Language Translator](https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002971.jpg)
+*Screenshots of sign to text translation *
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002952.jpg
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002961.jpg
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002971.jpg
@@ -86,6 +86,8 @@ https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Videos/V
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Videos/VID_20250107_122303.mp4
 
 *Translating voice into sign language visuals.*
+![Sign Language Video](https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Videos/What%20is%20your%20name.mp4)
+*Videos of voice to sign translation *.
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Videos/Thank%20you.mp4
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Videos/What%20is%20your%20name.mp4
 
