@@ -117,7 +117,7 @@ We welcome contributions to enhance the Sign Language Translator! To contribute:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the project while giving proper credit.
+This project is licensed under the [MIT License](https://github.com/ezrayalley/Sign-Language-Translator/blob/main/MIT%20License.txt). Feel free to use, modify, and distribute the project while giving proper credit.
 
 ---
 
