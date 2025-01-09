@@ -71,6 +71,7 @@ To set up and run the Sign Language Translator locally:
 ## Screenshots
 *Screenshot: Real-time gesture recognition converting sign gestures to text.*
 
+https://github.com/ezrayalley/Sign-Language-Translator/blob/main/1736233002961.jpg
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002952.jpg
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002961.jpg
 https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Pictures/1736233002971.jpg
