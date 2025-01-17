@@ -1,4 +1,4 @@
-# Sign Language Translator
+# Real-Time Bidirectional Sign Language Translation Using Deep Learning and Computer Vision for Inclusive Communication
 
 A cutting-edge Sign Language Translator designed to bridge the communication gap between the hearing and non-hearing communities.
 This tool translates sign gestures into text and voice, and vice versa, enabling seamless communication.
