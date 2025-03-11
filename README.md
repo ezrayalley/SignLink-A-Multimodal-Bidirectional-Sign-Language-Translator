@@ -96,7 +96,7 @@ https://github.com/ezrayalley/Sign-Language-Translator/blob/main/Sign%20Videos/W
 
 ## Contributing
 
-We welcome contributions to enhance the Sign Language Translator! To contribute:
+I welcome contributions to enhance the Sign Language Translator! To contribute:
 
 1. Fork the repository.
 2. Create a feature branch:
