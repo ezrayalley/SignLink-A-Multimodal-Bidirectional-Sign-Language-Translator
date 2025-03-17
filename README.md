@@ -2,6 +2,9 @@
 
 A cutting-edge Sign Language Translator designed to bridge the communication gap between the hearing and non-hearing communities.
 This tool translates sign gestures into text and voice, and vice versa, enabling seamless communication.
+--
+![Screenshot 2025-03-17 171937](https://github.com/user-attachments/assets/b1667746-bca3-4feb-b0d0-af995b131d8f)
+
 
 
 ## Features
