@@ -1,9 +1,10 @@
-# Real-Time Bidirectional Sign Language Translation Using Deep Learning and Computer Vision for Inclusive Communication
+# Real-Time Multimodal Bidirectional Sign Language Translation Using Deep Learning and Computer Vision for Inclusive Communication
 
 A cutting-edge Sign Language Translator designed to bridge the communication gap between the hearing and non-hearing communities.
 This tool translates sign gestures into text and voice, and vice versa, enabling seamless communication.
 --
-![Screenshot 2025-03-17 171937](https://github.com/user-attachments/assets/b1667746-bca3-4feb-b0d0-af995b131d8f)
+![image](https://github.com/user-attachments/assets/2daa914e-ba58-4100-a89d-f247381cb297)
+
 
 
 
