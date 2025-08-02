@@ -128,8 +128,8 @@ This project is licensed under the [MIT License](https://github.com/ezrayalley/S
 ---
 
 ## Contact
-Some files have been hidden.
-For questions, suggestions or to get full access to files, reach out:
+Some files and codes have been hidden.
+For questions, suggestions or to get full access to full files, reach out:
 
 - **Email**: ezra.yalley@gmail.com
 - **GitHub**: [@ezrayalley](https://github.com/ezrayalley)
