@@ -1,9 +1,10 @@
-# Real-Time Bidirectional Sign Language Translation Using Deep Learning and Computer Vision for Inclusive Communication
+# Real-Time Multimodal Bidirectional Sign Language Translation Using Deep Learning and Computer Vision for Inclusive Communication
 
 A cutting-edge Sign Language Translator designed to bridge the communication gap between the hearing and non-hearing communities.
 This tool translates sign gestures into text and voice, and vice versa, enabling seamless communication.
 --
-![Screenshot 2025-03-17 171937](https://github.com/user-attachments/assets/b1667746-bca3-4feb-b0d0-af995b131d8f)
+![image](https://github.com/user-attachments/assets/2daa914e-ba58-4100-a89d-f247381cb297)
+
 
 
 
@@ -127,8 +128,8 @@ This project is licensed under the [MIT License](https://github.com/ezrayalley/S
 ---
 
 ## Contact
-Some files have been hidden.
-For questions, suggestions or to get full access to files, reach out:
+Some files and codes have been hidden.
+For questions, suggestions or to get full access to full files, reach out:
 
 - **Email**: ezra.yalley@gmail.com
 - **GitHub**: [@ezrayalley](https://github.com/ezrayalley)
